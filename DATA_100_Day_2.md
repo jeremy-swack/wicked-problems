@@ -2,7 +2,7 @@
 
 ## A Person's Path between MANY Homes
 
-![](DATA_100_Day_2.png)
+![](DATA_100_Day_2_PLOT.png)
 
 ## My Code:
 
