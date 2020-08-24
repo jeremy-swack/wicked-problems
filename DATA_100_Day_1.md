@@ -1,6 +1,6 @@
 # DATA 100 Day 1
 
-https://jeremy-swack.github.io/wicked-problems/
+[Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
 ## Path of a Running Boy
 
