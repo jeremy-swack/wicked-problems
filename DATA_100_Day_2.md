@@ -1,6 +1,6 @@
 # DATA 100 Day 2
 
-https://jeremy-swack.github.io/wicked-problems/
+[Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
 ## A Person's Path between MANY Homes
 
