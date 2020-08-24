@@ -1,5 +1,7 @@
 # DATA 100 Day 2
 
+https://jeremy-swack.github.io/wicked-problems/
+
 ## A Person's Path between MANY Homes
 
 ![](DATA_100_Day_2_PLOT.png)
