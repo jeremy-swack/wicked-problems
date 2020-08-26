@@ -2,7 +2,7 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-##The Netherlands
+## The Netherlands
 
 ![](netherlands.png)
 
