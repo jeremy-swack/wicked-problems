@@ -2,7 +2,7 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-## Map of The Netherlands' most populous county
+## Map of The Netherlands' Most Populous County
 
 ![](Zuid_Holland.png)
 
