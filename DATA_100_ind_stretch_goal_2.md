@@ -10,4 +10,4 @@ Zuid Holland, or South Holland, is the most populous county in the Netherlands. 
 
 ## My Code:
 
-![](zuid_hollan_CODE.png)
+
