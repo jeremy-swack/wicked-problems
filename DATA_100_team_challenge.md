@@ -10,7 +10,7 @@ The Netherlands is very densely packed with counties and subdivisions, particula
 
 ## My Code:
 
-![](netherlands_CODE.png)
+
 
 ## Kuwait
 
@@ -20,4 +20,4 @@ Kuwait has fewer counties and subdivisions, so the map is a good bit easier to r
 
 ## My Code:
 
-![](kuwait_CODE.png)
+
