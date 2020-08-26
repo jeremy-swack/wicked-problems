@@ -2,7 +2,13 @@
 
 This is Jeremy Swack's Github page
 
-Link to my work:
+## Introduction
+
+![](picture.png)
+
+Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested in majoring in both Statistics and Data Science. I first became interested in Statistics and Data Science through watching baseball and learning more about sabermetrics through sites such as Fangraphs and 538. Both sites gave me introductions to data analysis and data science methods. I previously did work in R the summer between my junior and senior year of high school at the Wharton School of Business where I helped to develop a project that focused on pitcher optimization in Major League Baseball. I would love to work in an MLB front office one day!
+
+## Link to my work:
 
 [Exercise 1 8/24/2020](DATA_100_Day_1.md)
 
@@ -12,6 +18,4 @@ Link to my work:
 
 [Second Individual Goal](DATA_100_ind_stretch_goal_2.md)
 
-## The Best Baseball Player
 
-![](Soto_Shuffle.jpg)
