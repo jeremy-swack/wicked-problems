@@ -1,8 +1,8 @@
-#Second Individual Stretch Goal
+# Second Individual Stretch Goal
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-##Map of The Netherlands' most populous county
+## Map of The Netherlands' most populous county
 
 ![](zuid_holland.png)
 
