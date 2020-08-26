@@ -10,7 +10,7 @@ Link to my work:
 
 [Team Challenge (Country)](DATA_100_team_challenge.md)
 
-[Second Individual Goal](DATA_100_ind_goal_2.md)
+[Second Individual Goal](DATA_100_ind_stretch_goal_2.md)
 
 ## The Best Baseball Player
 
