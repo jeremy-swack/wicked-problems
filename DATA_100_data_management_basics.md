@@ -6,7 +6,7 @@ The following 6 graphs depict different characteristics about population data fr
 
 ## Bar Graphs
 
-<image src="total_population.pdf"/>
+<embed src="total_population.pdf" type="application/pdf">
 
 This plot breaks down each individual county by its total population.
 
