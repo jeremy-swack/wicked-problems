@@ -6,27 +6,26 @@ The following 6 graphs depict different characteristics about population data fr
 
 ## Bar Graphs
 
-<object data="total_population.pdf" type="application/pdf" width="700px" height="700px">
-</object>
+![](total_population.png)
 
 This plot breaks down each individual county by its total population.
 
-![](total_population_src_rmt.pdf)
+![](total_population_src_rmt.png)
 
 This plot breaks down each county's population by its direct source and its remote source.
 
-![](men_women.pdf)
+![](men_women.png)
 
 This plot breaks down each county's population by gender.
 
-![](pop_density.pdf)
+![](pop_density.png)
 
 This plot breaks down each county's population by population density (people/square foot)
 
-![](diff_src_rmt.pdf)
+![](diff_src_rmt.png)
 
 This plot shows the difference in total population between the source data set and the remote data set.
 
-![](diff_src_rmt_female_pct.pdf)
+![](diff_src_rmt_female_pct.png)
 
 This plot shows the difference in female population percentage between the source data set and the remote set.
