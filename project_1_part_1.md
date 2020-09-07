@@ -18,7 +18,7 @@ The following bar plots show the breakdown of the total number of applicants and
 
 ## Top 50 Schools (Stretch Goal 2)
 
-Using the mutate() function, I added an extra column to my dataframe to compare the acceptance rates of every single school. To do this, I divided total accepted by total applications. Then, using the arrange() function, I sorted the dataframe to give me to 50 lowest acceptance rates
+Using the mutate() function, I added an extra column to my data frame to compare the acceptance rates of every single school. To do this, I divided total accepted by total applications. Then, using the arrange() function, I sorted the data frame to give me the 50 lowest acceptance rates
 
 ![](top50_1.png)
 ![](top50_2.png)
