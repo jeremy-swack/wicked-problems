@@ -14,7 +14,7 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested i
 
 [Exercise 2 8/26/2020](DATA_100_Day_2.md)
 
-[Data Management Basics](DATA_100_data_management_basics.md)
+[Data Management Basics 8/28/2020](DATA_100_data_management_basics.md)
 
 [Project 1, Part 1 9/5/2020](project_1_part_1.md)
 
