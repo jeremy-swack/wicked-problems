@@ -16,8 +16,6 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested i
 
 [Data Management Basics](DATA_100_data_management_basics.md)
 
-[Team Challenge (Country)](DATA_100_team_challenge.md)
-
-[Second Individual Goal](DATA_100_ind_stretch_goal_2.md)
+[Project 1, Part 1 9/5/2020](project_1_part_1.md)
 
 
