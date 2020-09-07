@@ -8,8 +8,15 @@ The following bar plots show the breakdown of the total number of applicants and
 
 ![](doc_applicants.png)
 
-## Enrollment Plots (Stretch Goal)
+## Enrollment Plots (Stretch Goal 1)
 
 ![](4year_enroll.png)
 
 ![](doc_enroll.png)
+
+## Strech Goal 2
+
+Using the mutate() function, I added an extra column to my dataframe to compare the acceptance rates of every single school. To do this, I divided total accepted by total applications. Then, using the arrange() function, I sorted the dataframe to give me to 50 lowest acceptance rates
+
+![](top50_1.png)
+![](top50_2.png)
