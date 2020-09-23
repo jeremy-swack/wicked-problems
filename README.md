@@ -22,5 +22,5 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested i
 
 [Project 1, Part 2 9/15/2020](project_1_part_2.md)
 
-[Project 2, Part 1 9/21/2020](project2_part_1.md)
+[Project 2, Part 1 9/21/2020](project_2_part_1.md)
 
