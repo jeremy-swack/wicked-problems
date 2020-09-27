@@ -10,6 +10,6 @@ This correlation matrix shows the correlation between the next close of Netflix 
 
 ## Summary of the Model
 
-![](netflix_summary)
+![](netflix_summary.png)
 
 This shows the characteristics of the linear model created by 5 predictors (Disney, Roku, Discovery Communications, Comcast, and Google) and the 1 response (Netflix).
