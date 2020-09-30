@@ -1,4 +1,6 @@
-# Project 2, Part1
+# Project 2, Part 2
+
+[Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
 The goal of this project was to select a group of stocks in a certain industry and pick one to try and predict. For my project, I selected stocks in the streaming service industry. I decided to try and predict the value of Netflix using Disney (Disney+, Hulu), Roku, Discovery Communications (HGTV, Food Network), Comcast (Peacock), and Google (YoutubeTV).
 
