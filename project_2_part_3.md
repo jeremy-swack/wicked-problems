@@ -6,8 +6,12 @@ The goal of this part of the project was to create a profitable investment protf
 
 ## Portfolio Plot
 
-![](portolio_returns.png)
+![](portfolio_returns.png)
+
+This plot shows the percent return of the total portfolio over time. The trend line on the plot shows that there was positive growth over the 3 year period, meaning the portfoilio made money.
 
 ## Portfolio Growth
 
-![](portfolio_growth)
+![](portfolio_growth.png)
+
+This graph shows that total increase in the value of the portfolio. By selecting stocks that were least impacted by the COVID-19 pandemic, the portfolio gave better returns.
