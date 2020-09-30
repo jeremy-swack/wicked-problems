@@ -1,5 +1,7 @@
 # Project 2, Part 1
 
+[Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
+
 The goal of this part of the project was to display absolute population growth and the rate of population growth of the United States plus Puerto Rico. U.S. census data from 2010-2014 was used.
 
 ## Absolute growth
