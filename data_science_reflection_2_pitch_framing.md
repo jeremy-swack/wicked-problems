@@ -2,4 +2,4 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-## Analyzing 538's NBA Player Evaluation Metric, RAPTOR
+## Using a Bayesian Model to Evaluate Catcher Framing in MLB
