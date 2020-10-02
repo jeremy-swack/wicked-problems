@@ -8,7 +8,7 @@ Baseball is a game full of human error. Even in Major League Baseball (MLB) and 
 
 Adi Wyner and Sameer Deshpande’s pitch framing model attempts to quantify the total impact catcher framing has on a team’s win total. Created in 2017, the model uses PITCHf/x pitch tracking data to determine the x and y location of every pitch thrown in a given season. By creating heat maps of strike probabilities, it is possible to determine the additional chance a catcher adds to a particular pitch being called a strike. The model also adjusts for the particular umpire, as every umpire has slightly different tendencies for what areas of the strike zone they are more generous or stringent over. Effectively, each umpire has their own probability heat map for their own strike zone. These heat maps can then be applied to catchers to see if they are either increasing or decreasing the probability of a strike being called.
 
-##
+
 ![](data_science_reflection_2.jpg)
 An example of strike zone probability heat maps by handedness of hitter and pitcher.
 
