@@ -10,7 +10,7 @@ Adi Wyner and Sameer Deshpande’s pitch framing model attempts to quantify the 
 
 ##
 ![](data_science_reflection_2.jpg)
-    An example of strike zone probability heat maps by handedness of hitter and pitcher
+An example of strike zone probability heat maps by handedness of hitter and pitcher.
 ##
 
 Wyner and Deshpande’s model also converts these probabilities into runs saved over the course of a season. This statistic would be value for MLB front offices as paying for catcher framing is not as expensive as paying for other skills, such as hitting and controlling base stealing. The model shows that a good pitch framer can add up to 2-3 wins to a team, which going by the average that every win is worth about 9 million dollars, could potentially save teams millions. Additionally, the statistic, CAFE, has a decent year to year correlation of around .6. This is similar to the year to year correlation of slugging percentage, which is a well agreed upon statistic that has been used for decades to evaluate players. Although teams have now started to catch on to the value of pitch framing and are beginning to try and develop the skill in their existing catchers, it is likely pitch framing is still being undervalued and still represents a market inefficiency in Major League Baseball.
