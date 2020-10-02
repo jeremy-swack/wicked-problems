@@ -8,11 +8,10 @@ Baseball is a game full of human error. Even in Major League Baseball (MLB) and 
 
 Adi Wyner and Sameer Deshpande’s pitch framing model attempts to quantify the total impact catcher framing has on a team’s win total. Created in 2017, the model uses PITCHf/x pitch tracking data to determine the x and y location of every pitch thrown in a given season. By creating heat maps of strike probabilities, it is possible to determine the additional chance a catcher adds to a particular pitch being called a strike. The model also adjusts for the particular umpire, as every umpire has slightly different tendencies for what areas of the strike zone they are more generous or stringent over. Effectively, each umpire has their own probability heat map for their own strike zone. These heat maps can then be applied to catchers to see if they are either increasing or decreasing the probability of a strike being called.
 
+##
 ![](data_science_reflection_2.jpg)
     An example of strike zone probability heat maps by handedness of hitter and pitcher
-
-
-
+##
 
 Wyner and Deshpande’s model also converts these probabilities into runs saved over the course of a season. This statistic would be value for MLB front offices as paying for catcher framing is not as expensive as paying for other skills, such as hitting and controlling base stealing. The model shows that a good pitch framer can add up to 2-3 wins to a team, which going by the average that every win is worth about 9 million dollars, could potentially save teams millions. Additionally, the statistic, CAFE, has a decent year to year correlation of around .6. This is similar to the year to year correlation of slugging percentage, which is a well agreed upon statistic that has been used for decades to evaluate players. Although teams have now started to catch on to the value of pitch framing and are beginning to try and develop the skill in their existing catchers, it is likely pitch framing is still being undervalued and still represents a market inefficiency in Major League Baseball.
 
