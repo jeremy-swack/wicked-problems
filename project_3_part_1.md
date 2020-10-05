@@ -1,11 +1,10 @@
 # Project 3, Part 1
 
+## The Netherlands
 
+![](netherlands.png)
 
-
-
-
-
+The Netherlands is very densely packed with counties and subdivisions, particularly near the South Holland region where the country has a higher population density.
 
 ## Map of The Netherlands' Most Populous County (Stretch Goal #2)
 
