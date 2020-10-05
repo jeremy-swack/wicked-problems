@@ -16,5 +16,5 @@
 
 ## Stretch Goal 3
 
-![](nld_pop20_stretch_goal_3.gif =500x500)
+![](nld_pop20_stretch_goal_3.gif | widith = 100)
 
