@@ -24,5 +24,5 @@ The third plot shows the log population of all districts with the original area 
 
 ![](nld_pop20_stretch_goal_3.gif)
 
-Lastly, this is a 3D render of the previous 2D plot.
+Lastly, this is a 3D render of the previous 2D plot. I used the render_camera() and render_movie() commands to produce this plot. A zoom value of .5 was used.
 
