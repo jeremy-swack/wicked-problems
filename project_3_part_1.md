@@ -4,13 +4,13 @@
 
 ## The Netherlands (Deliverable)
 
-![](netherlands.png)
+![](netherlands1.png)
 
 The Netherlands is very densely packed with provinces and subdivisions, particularly near the South Holland region where the country has a higher population density.
 
 ## Map of The Netherlands' Most Popululated Province (Stretch Goal #2)
 
-![](Zuid_Holland.png)
+![](Zuid_Holland1.png)
 
 Zuid Holland, or South Holland, is the most popululated province in the Netherlands. Even when just veiwing this county on its own, the abundance of smaller subdivisions make the map difficult to read.
 
