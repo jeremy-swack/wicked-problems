@@ -19,3 +19,7 @@ Zuid Holland, or South Holland, is the most popululated province in the Netherla
 ![](Zeeland.png)
 
 Zeeland, which is south of Zuid Holland and creates the border between The Netherlands and Belgium.
+
+## Putting it all Together (Stretch Goal #3)
+
+![](details.png)
