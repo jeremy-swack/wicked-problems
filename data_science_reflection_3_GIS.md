@@ -1,5 +1,7 @@
 # Using Deep Learning for Object Detection in Satellite Data 
 
+[Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
+
 When scrolling through Google Maps, it can be hard to realize the vast amount of information that is being presented on screen. There are thousands of different kinds of structures, in both different layouts and orientations. However, every single house, business, and road is all marked accordingly and accurately, even with new information constantly being added, particularly in remote areas. While the complexity of satellite data is daunting, using deep learning, algorithms have been created to correctly identify different features of a satellite map, including roads, pools, and houses.
 
 The simplest form of this technique is known as image classification, which allows for a computer to label a picture with a certain tag. For example, using an image classification algorithm, a satellite image of Truist Park, home of the Atlanta Braves, could be marked as a high occupancy area. This kind of information can be useful for event planning and traffic management.	
