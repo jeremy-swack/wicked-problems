@@ -30,9 +30,9 @@ Hello! My name is Jeremy Swack and I am from Fairfax, Virginia. I'm interested i
 
 [Data Science Reflection 2 10/2/2020](data_science_reflection_2_pitch_framing.md)
 
-[Project 3 10/18/2020](project_3.md)
-
 [Data Science Reflection 3 10/16/2020](data_science_reflection_3_GIS.md)
+
+[Project 3 10/17/2020](project_3.md)
 
 [Project 4 10/?/2020](project_4.md)
 
