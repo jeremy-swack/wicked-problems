@@ -2,7 +2,7 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-## Deliverable
+## Deliverable 1
 
 ![](nld_pop20.png)
 
@@ -25,4 +25,16 @@ The third plot shows the log population of all districts with the original area 
 ![](nld_pop20_stretch_goal_3.gif)
 
 Lastly, this is a 3D render of the previous 2D plot. I used the render_camera() and render_movie() commands to produce this plot. A zoom value of .5 was used.
+
+## Deliverable 2
+
+![](netherlands_all.png)
+
+# Stretch Goal 1
+
+![](nld_adm2_bp.png)
+
+# Stretch Goal 2
+
+See Stretch Goal 3 For Deliverable 1
 
