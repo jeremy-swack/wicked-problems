@@ -16,13 +16,13 @@ This second plot shows the log population of every district in The Netherlands. 
 
 ## Stretch Goal 2
 
-![](nld_pop20_stretch_goal_2.png)
+![](nld_pop20_stretch_goal_2_final.png)
 
 The third plot shows the log population of all districts with the original area boundaries as well. This plot also has 3 colors for the scale. Low log population correlates to blue, the middle correlates to yellow, and high log population correlates to orange.
 
 ## Stretch Goal 3
 
-![](nld_pop20_stretch_goal_3.gif)
+![](project_4_part_1_sg3.gif)
 
 Lastly, this is a 3D render of the previous 2D plot. I used the render_camera() and render_movie() commands to produce this plot. A zoom value of .5 was used.
 
