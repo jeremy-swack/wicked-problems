@@ -12,3 +12,8 @@ TikTok uses separate data science techniques for the creation side of its platfo
 
 
 ![](ds_reflection_4_2.png)
+
+SOURCES: 
+https://towardsdatascience.com/why-tiktok-made-its-user-so-obsessive-the-ai-algorithm-that-got-you-hooked-7895bb1ab423
+https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html
+https://www.veed.io/grow/reverse-engineering-how-tiktok-algorithm-works/
