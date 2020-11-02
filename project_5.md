@@ -2,4 +2,15 @@
 
 [Back to Home Page](https://jeremy-swack.github.io/wicked-problems/)
 
-## Deliverable 
+## Part 1 Deliverable 
+
+![](logpop_density.png)
+
+![](water_density.png)
+
+## Part 2 Deliverable 
+
+
+
+
+
