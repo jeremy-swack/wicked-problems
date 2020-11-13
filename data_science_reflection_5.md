@@ -1,6 +1,11 @@
+# Data Science Reflection 5
+
 Jeremy Swack
+
 13 November 2020
+
 Professor Frazier
+
 Data Science Reflection 5
 	Data Science, fundamentally, is about making observations that could not be observed with the human eye. With the advent of true big data from systems such as satellites and location tracking devices, data science’s “measuring stick” has grown larger, and with it, the ability to make complex conclusions about the human population has also grown. It would be impossible to create large scale projects on human migration or human behavior without instruments to capture these huge datasets. Models are only as good as the data put into them; a complex and intricately created neural network is useless without an adequate data set fed into it. The growth of large data sets has made these models possible, and thus conclusions about human society as a whole are possible 
 	The heart of data based reasoning is to use data, rather than intuition, to draw conclusions. On a more micro scale, some of the best examples of this can be found in professional sports. Professional sports leagues, such as the NBA, MLB, NFL, NHL, etc. are quite resistant to change and the way teams are run was mostly off conventional wisdom. Imprecise measuring tools like human scouting were and still are a cornerstone of how professional teams evaluate talent. However, once the world of Big Data made its way into the front offices of these organizations, data became the measuring tool rather than human intuition and observation. While it has not necessarily been a smooth transition, it has become clear that teams that are not using the vast quantities of data around them are falling behind. Simply put, data has the ability to uncover truths that the human eye cannot. This concept is applicable to data science methods on a much larger scale as well. It would be impossible to find a correlation between someone’s purchase history at Target and whether they were pregnant or not with the human eye. But, with systems that allow for the capturing of large quantities of data, machine learning techniques can be used to create models that accurately describe these relationships and give a better understanding of human behavior as a whole. 
