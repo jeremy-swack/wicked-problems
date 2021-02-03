@@ -1,6 +1,6 @@
 # Wicked Problems (DATA 100)
 
-This is Jeremy Swack's Github page
+This is Jeremy Swack's Github page for DATA 100
 
 ## Introduction
 
